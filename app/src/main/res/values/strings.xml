@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Genius Retro</string>
+
+    <!-- Tab Menu-->
+    <string name="home_title">หน้าหลัก</string>
+    <string name="course_title">หลักสูตร</string>
+    <string name="product_title">สินค้า</string>
+    <string name="article_title">บทความ</string>
+    <string name="contact_title">ติดต่อเรา</string>
+
+    <!--Side menu-->
+    <string name="nav_profile">Profile</string>
+    <string name="nav_question">Question</string>
+    <string name="nav_policy">Policy</string>
+    <string name="nav_setting">Setting</string>
+    <string name="nav_logout">Logout</string>
+
+    <string name="head_fullname">Samit Koyom</string>
+    <string name="head_email">samitkoyom@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
