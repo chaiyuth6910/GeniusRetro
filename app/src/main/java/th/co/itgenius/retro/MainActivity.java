@@ -1,4 +1,4 @@
-package th.co.itgenius.androiddesignlibrary;
+package th.co.itgenius.retro;
 
 import android.content.Intent;
 import android.content.res.Configuration;
